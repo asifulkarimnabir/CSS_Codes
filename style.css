@@ -1,3 +1,11 @@
 body {
-  background: #12c1e0;
+  padding: 50px;
+}
+#external-css {
+  margin: 30px;
+}
+.external-css {
+  background-color: #7fffd4;
+  padding: 50px;
+  margin: 30px;
 }
