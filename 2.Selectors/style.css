@@ -1,0 +1,31 @@
+/* Universal Selector */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* Element Selector */
+h1 {
+  color: #1d2d44;
+  margin: 40px 0 20px 40px;
+}
+ol {
+  margin: 20px;
+  padding-left: 20px;
+}
+/* Id Selector */
+#id-selector {
+  color: #f0ebd8;
+}
+/* Class Selector */
+.class-selector {
+  color: #f0ebd8;
+}
+/* Group Selector */
+#id-selector,
+.class-selector {
+  background-color: #1d2d44;
+  /* margin: top/bottom & left/right; */
+  margin: 20px 40px;
+  padding: 20px;
+}

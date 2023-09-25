@@ -1,11 +1,11 @@
 body {
-  padding: 50px;
+  padding: 5px;
 }
-#external-css {
-  margin: 30px;
+.external-heading {
+  margin: 10px;
 }
 .external-css {
   background-color: #7fffd4;
-  padding: 50px;
-  margin: 30px;
+  padding: 15px;
+  margin: 10px;
 }
