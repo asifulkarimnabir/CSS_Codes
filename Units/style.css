@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 30px;
+}
+h1 {
+  font-size: 3rem;
+}
+main {
+  width: 50%;
+  border: 3px dashed red;
+  margin: 20px 0;
+}
+.absolute {
+  border: 3px solid #000000;
+  padding: 20px;
+  width: 75vw;
+}
+section {
+  width: 75vw;
+  border: 3px dashed red;
+}
+.relative {
+  width: 75%;
+  border: 3px solid #000000;
+  padding: 20px;
+}
