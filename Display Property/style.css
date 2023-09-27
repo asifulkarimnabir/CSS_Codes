@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 5px;
+  box-sizing: border-box;
+  border: 1px solid black;
+}
+body {
+  margin: 30px;
+}
+h3 {
+  display: inline;
+}
+p {
+  margin: 20px;
+}
+.inline img {
+  width: 200px;
+}
+.inline a {
+  border: 2px solid black;
+}
+.inline-block img {
+  /* image tag is inline-block element */
+  display: block;
+  width: 250px;
+  margin: 20px;
+}
+.inline-block a {
+  color: #000000;
+  background-color: #17e4c9;
+  border: 3px solid #da1233;
+  text-decoration: none;
+  margin: 20px;
+}
